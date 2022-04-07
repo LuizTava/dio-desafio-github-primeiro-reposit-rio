@@ -1,0 +1,2 @@
+1-Devemos lembrar de verificar onde estamos trabalhando, se na pasta do GitHub remoto, ou na pasta do GitBash local.
+2-Sempre é necessário comitar qualquer alteração para salvá-la.
